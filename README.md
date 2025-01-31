@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Ochi Clone is a meticulously crafted web experience that brings together GSAP, Locomotive Scroll, and React to deliver a visually stunning and ultra-smooth interface. Designed to showcase high-end scrolling effects, seamless animations, and interactive elements, this project embodies modern web aesthetics with fluid transitions and engaging motion dynamics. From parallax effects to scroll-triggered animations, every interaction is optimized for an immersive user experience. This project is a testament to my expertise in building interactive, high-performance websites that blend design and functionality effortlessly.
